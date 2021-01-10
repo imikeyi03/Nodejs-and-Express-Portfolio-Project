@@ -8,7 +8,7 @@
                 "technologies": [ "HTML55", "CSS3", "JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/Random-Quote-Generator/",
                 "github_link": "https://github.com/imikeyi03/Random-Quote-Generator",
-                "image_urls": ["/images/project1/main.png", "/images/project1/alt1.png", "/images/project1/alt2.png", "/images/project1/alt3.png" ]
+                "image_urls": ["/images/project1/main.png", "/images/project1/alt.png" ]
             },
             {
                 "id": 2,
@@ -17,7 +17,7 @@
                 "technologies": [ "HTML5", "CSS3", "JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/Full-Stack-Unit-2/",
                 "github_link": "https://github.com/imikeyi03/Full-Stack-Unit-2",
-                "image_urls": ["/images/project2/main.png", "/images/project2/alt1.png", "/images/project2/alt2.png", "/images/project2/alt3.png" ]
+                "image_urls": ["/images/project2/main.png", "/images/project2/alt.png" ]
             },
             {
                 "id": 3,
@@ -26,7 +26,7 @@
                 "technologies": [ "HTML", "CSS", "JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/Interactive-Full-Stack-Form/",
                 "github_link": "https://github.com/imikeyi03/Interactive-Full-Stack-Form",
-                "image_urls": ["/images/project3/main.png", "/images/project3/alt1.png", "/images/project3/alt2.png", "/images/project3/alt3.png" ]
+                "image_urls": ["/images/project3/main.png", "/images/project3/alt.png" ]
             },
             {
                 "id": 4,
@@ -35,7 +35,7 @@
                 "technologies": [ "HTML", "CSS", "JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/OOP_Game_Show/",
                 "github_link": "https://github.com/imikeyi03/OOP_Game_Show",
-                "image_urls": ["/images/project4/main.png", "/images/project4/alt1.png", "/images/project4/alt2.png", "/images/project4/alt3.png" ]
+                "image_urls": ["/images/project4/main.png", "/images/project4/alt.png" ]
             },
             {
                 "id": 5,
@@ -44,7 +44,7 @@
                 "technologies": [ "HTML", "CSS", "Asynchronous JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/Startup-Directory/",
                 "github_link": "https://github.com/imikeyi03/Startup-Directory/",
-                "image_urls": ["/images/project5/main.png", "/images/project5/alt1.png", "/images/project5/alt2.png", "/images/project5/alt3.png" ]
+                "image_urls": ["/images/project5/main.png", "/images/project5/alt.png" ]
             }
         ]
     }

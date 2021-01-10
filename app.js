@@ -9,10 +9,11 @@ app.use (express.static('public'));
 app.set('view engine', 'pug');
 
 
-const mainRoutes = require('./routes');
-
+const mainRoutes = require('./routes/index');
+const projectRoutes = require('./routes/projects')
 
 app.use(mainRoutes);
+app.use('/projects', projectRoutes);
 
 
 
