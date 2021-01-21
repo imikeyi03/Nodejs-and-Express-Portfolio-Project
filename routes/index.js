@@ -4,9 +4,6 @@ const { data } = require('../data.json');
 const { projects } = data;
 
 
-
-
-
 // GET Routes
 
 
@@ -17,12 +14,21 @@ router.get('/', (req, res) => {
 
 // About page
 router.get('/about', (req, res) => {
-    res.render('about');
+    res.render('about', {projects} );
 })
 
+// Project Pages
+router.get('/project/:id', (req, res) => {
+    const {id} = req.params;
+    const project = projects[id];
 
-
-
+    if(project) {
+        res.render('project', {project} );
+    } else {
+        res.redirect('/');
+    }
+    
+})
 
 
 

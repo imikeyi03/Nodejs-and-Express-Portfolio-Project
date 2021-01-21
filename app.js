@@ -5,11 +5,9 @@ const app = express();
 
 app.use(bodyParser.urlencoded({extended: false}))
 app.use (express.static('public'));
-
 app.set('view engine', 'pug');
 
 const mainRoutes = require('./routes/index');
-
 app.use(mainRoutes);
 
 

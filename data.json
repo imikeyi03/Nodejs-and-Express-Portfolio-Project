@@ -2,7 +2,7 @@
     "data": {
         "projects": [
             {
-                "id": 1,
+                "id": 0,
                 "project_name": "Random Quote Generator",
                 "description": "Created an app that randomly displays famous quotes with sources, optional citations, optional tags, random background-colors, and optional released year every 5 seconds. Users interact with a basic button to cycle through a random quote or a play/pause setup to auto-generate quotes.",
                 "technologies": [ "HTML55", "CSS3", "JavaScript" ],
@@ -11,7 +11,7 @@
                 "image_urls": ["/images/project1/main.png", "/images/project1/alt.png" ]
             },
             {
-                "id": 2,
+                "id": 1,
                 "project_name": "List Pagination and Filtering",
                 "description": "This unit helped me to develop my skills using JavaScript for DOM maniupulation. The app dynamically displays page links at the bottom of the page based on how many students are in the list. There can only be 10 students per page at most. If more are present, they are added to the next page of 10.",
                 "technologies": [ "HTML5", "CSS3", "JavaScript" ],
@@ -20,7 +20,7 @@
                 "image_urls": ["/images/project2/main.png", "/images/project2/alt.png" ]
             },
             {
-                "id": 3,
+                "id": 2,
                 "project_name": "Interactive-Full-Stack-Form",
                 "description": "This unit helped me to develop my skills using JavaScript for form validation and manipulation. The app keeps the payment form in a default state on page load and changes as the user interacts with the form. This was great for understanding options and selections within forms, as well as event listeners with seperate functions for regex validations.",
                 "technologies": [ "HTML", "CSS", "JavaScript" ],
@@ -29,7 +29,7 @@
                 "image_urls": ["/images/project3/main.png", "/images/project3/alt.png" ]
             },
             {
-                "id": 4,
+                "id": 3,
                 "project_name": "Phrase Hunter",
                 "description": "This unit helped me to develop my skills using OOP JavaScript. I focused mainly on truly understanding JS classes using constructors and class methods, DOM manipulation, and harnessing the power of the 'this' object keyword.",
                 "technologies": [ "HTML", "CSS", "JavaScript" ],
@@ -38,7 +38,7 @@
                 "image_urls": ["/images/project4/main.png", "/images/project4/alt.png" ]
             },
             {
-                "id": 5,
+                "id": 4,
                 "project_name": "Startup-Employee-Directory-API",
                 "description": "This project was a great way to flex my aynchronous javascript muscles by working with the Fetch API and dealing with JavaScript Promises, and Error Handling.",
                 "technologies": [ "HTML", "CSS", "Asynchronous JavaScript" ],
