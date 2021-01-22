@@ -21,7 +21,7 @@
             },
             {
                 "id": 2,
-                "project_name": "Interactive-Full-Stack-Form",
+                "project_name": "Interactive Full-Stack Form",
                 "description": "This unit helped me to develop my skills using JavaScript for form validation and manipulation. The app keeps the payment form in a default state on page load and changes as the user interacts with the form. This was great for understanding options and selections within forms, as well as event listeners with seperate functions for regex validations.",
                 "technologies": [ "HTML", "CSS", "JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/Interactive-Full-Stack-Form/",
@@ -39,12 +39,21 @@
             },
             {
                 "id": 4,
-                "project_name": "Startup-Employee-Directory-API",
+                "project_name": "Employee Directory API",
                 "description": "This project was a great way to flex my aynchronous javascript muscles by working with the Fetch API and dealing with JavaScript Promises, and Error Handling.",
                 "technologies": [ "HTML", "CSS", "Asynchronous JavaScript" ],
                 "live_link": "https://imikeyi03.github.io/Startup-Directory/",
                 "github_link": "https://github.com/imikeyi03/Startup-Directory/",
                 "image_urls": ["/images/project5/main.png", "/images/project5/alt.png" ]
+            },
+            {
+                "id": 5,
+                "project_name": "Music By Country",
+                "description": "Music by country utilizes both the LastFM and Restcountries APIs to help users understand the most popular songs on the LastFM platform while also returning the searched country's flag. It's simple, the user will be presented a form to query their desired country with a chosen limit set on how many are results are returned. Once the user submits the form, a list of top songs in that country is rendered to the DOM.",
+                "technologies": [ "HTML", "CSS", "JavaScript", "JQuery" ],
+                "live_link": "https://imikeyi03.github.io/Music-By-Country/",
+                "github_link": "https://github.com/imikeyi03/Music-By-Country",
+                "image_urls": ["/images/project6/main.png", "/images/project6/alt.png" ]
             }
         ]
     }

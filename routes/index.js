@@ -25,7 +25,7 @@ router.get('/project/:id', (req, res) => {
     if(project) {
         res.render('project', {project} );
     } else {
-        res.redirect('/');
+        res.redirect('/page-not-found');
     }
     
 })
